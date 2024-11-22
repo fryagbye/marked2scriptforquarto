@@ -1,0 +1,11 @@
+---
+output:
+  html_document:
+    template: /Users/tk4o2ka/marked2script/template.html
+
+format:
+  html:
+    theme:
+      - cosmo
+      - marked2.scss
+---
